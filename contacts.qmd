@@ -1,4 +1,13 @@
-MSCR Contacts
+# MSCR Contacts
+
+Casey Golliher 
+cgolliher@madison.k12.wi.us
+
+Ian Hannah
+ihannah@madison.k12.wi.us
+
+Kenzie Damon
+mldamon@madison.k12.wi.us
 
 Fred Martinez
 fmartinez3@madison.k12.wi.us
@@ -7,8 +16,14 @@ Billie Jo Heine
 bgheine@madison.k12.wi.us
 
 
-Ian Hannah
-ihannah@madison.k12.wi.us
+# Other Coaches
 
-Kenzie Damon
-mldamon@madison.k12.wi.us
+Blackhawk
+
+- Abby Dominick; akdominick@madison.k12.wi.us
+- Tanya Novotnak; tmnovotnak@madison.k12.wi.us
+
+
+Sherman
+
+- Daniel McDonnell; dlmcdonnell@madison.k12.wi.us
